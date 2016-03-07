@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MarkerTree</string>
+    <string name="action_settings">write</string>
+    <string name="read">북마크 게시물</string>
+    <string name="title_activity_network_manager">NetworkManager</string>
+    <string name="title_activity_sign_up">회원가입</string>
+    <string name="title_activity_marker_main">markerMain</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

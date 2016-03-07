@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home"
+            android:title="HOME" />
+        <item
+            android:id="@+id/music"
+            android:icon="@drawable/music"
+            android:title="음악" />
+        <item
+            android:id="@+id/sports"
+            android:icon="@drawable/sports"
+            android:title="운동" />
+        <item
+            android:id="@+id/art"
+            android:icon="@drawable/art"
+            android:title="예술" />
+        <item
+            android:id="@+id/game"
+            android:icon="@drawable/controller"
+            android:title="게임" />
+        <item
+            android:id="@+id/book"
+            android:icon="@drawable/book"
+            android:title="독서" />
+        <item
+            android:id="@+id/study"
+            android:icon="@drawable/study"
+            android:title="공부" />
+        <item
+            android:id="@+id/etc"
+            android:title="기타" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
