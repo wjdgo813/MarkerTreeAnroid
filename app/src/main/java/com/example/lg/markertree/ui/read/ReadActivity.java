@@ -125,7 +125,7 @@ public class ReadActivity extends AppCompatActivity {
                     mAdapter.add(commItem);
                 }
 
-                int height = mAdapter.getItemCount() * 170; //리사이클러뷰 높이 조정 (댓글
+                int height = mAdapter.getItemCount() * 170; //리사이클러뷰 높이 조정 (댓글)
                 recyclerView.getLayoutParams().height = height;
             }
 
